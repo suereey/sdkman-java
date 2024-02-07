@@ -1,0 +1,28 @@
+# CLI, Shell and Kernal (Operating System)
+cli shell kernalane
+## What is CLI
+A command line interface (CLI) is a software mechanism you use to interact with your operating system using your keyboard.
+https://aws.amazon.com/what-is/cli/
+Another mechanism is GUI (graphical UI)
+## Types of CLI
+- **terminal*k: 1Term
+- **console**: **PowerShell** in windows system
+- **Shell** in Linux and Uni›
+## Shell
+- **bash** is a type of shell
+- **ZSH** is an extended version of the Bourne Shell (sh), with new features and support for plugins and themes. Since it's based on the sane shell as Bash, ZS has many of the same features, and switching over is a breeze.
+- ZSH vs. Bash: ZSH can
+- Automatic cd: Just type the name of the directory
+- Recursive path expansion: For example "/u/lo/b" expands to "/us/local/bin"
+- Automatic Syntax HighLighting
+- Spelling correction and approximate completion
+- Plugin and theme support: ZSH includes many different plugin frameworks
+**Recommand to install "'"oh my zsh"": https://ohmyz.sh/
+
+## kernel
+The kernel is a core component of an operating system and serves as the main interface between the computer's physical hardware and the processes running on it.
+
+## Summary
+**kernel** is the heart of the operating systen.
+**shell** allows users to communicate with os kernal by interpreting commands.
+**cli** is the interface through which users interact with the shell
